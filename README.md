@@ -1,3 +1,3 @@
 # humor-detection
 
-An attempt to develop a BERT Model to classify jokes & Non Jokes.
+A SentenceBERT Model for Language Modeling & SVC Model with hyper-parameter tuning for classification of Jokes & Non-Jokes.
